@@ -63,31 +63,31 @@ Depois, instale o projeto. Para esse passo, é necessário ter o Node.js instala
 ## Backlog do Sprint
 
 * __História 1:__ Como um usuário, eu quero me cadastrar no aplicativo
-    __Tarefas e Responsáveis:__
+* __Tarefas e Responsáveis:__
     - Instalar Node, Express e MongoDB [João]
     - Criar modelo de usuário no banco de dados [João]
     - Criar rota para criar usuário na API do Back End [Stephanie]
     - Criar formulário de cadastro no Front End [Stephanie]
 
 * __História 2:__ Como um usuário, quero poder diminuir ou aumentar a velocidade do jogo
-    __Tarefas e Responsáveis:__
+* __Tarefas e Responsáveis:__
     - Criar um slider na interface do jogo [João]
     - Criar uma função para atualizar o estado do jogo [João]
 
 * __História 3:__ Como um usuário, gostaria de ver meus resultados
-    __Tarefas e Responsáveis:__
+* __Tarefas e Responsáveis:__
     - Ao fim de cada jogo, inserir o resultado no banco de dados[Stephanie]
     - Criar um modelo de resultados no banco de dados[Stephanie]
     - Criar uma rota para pegar os resultados dado o ID de um usuário[João]
     - Criar uma tela que mostre os resultados do usuário[João]
 
 * __História 4:__ Como um usuário, gostaria de ser incentivado quando performo bem no jogo
-    __Tarefas e Responsáveis:__
+* __Tarefas e Responsáveis:__
     - Definir um sistema de multiplicador de pontos para acertos consecutivos[João]
     - Mostrar na tela o multiplicador atual[João]
 
 * __História 5:__ Como um usuário, gostaria de ver minha evolução ao longo do tempo.
-    __Tarefas e Responsáveis:__
+* __Tarefas e Responsáveis:__
     - Fazer uma requisição na rota para pegar o resultado de todos os jogos de um usuário[Stephanie]
     - Criar uma tela que mostre estes resultados em forma de gráfico ao longo do tempo[Stephanie]
 
