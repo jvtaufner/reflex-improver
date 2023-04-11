@@ -30,7 +30,7 @@ Primeiro, clone o repositório
 Depois, instale o projeto. Para esse passo, é necessário ter o Node.js instalado.
 
 ```bash
-  cd meu-treino
+  cd reflex-improver
   npm install
 ```
 
